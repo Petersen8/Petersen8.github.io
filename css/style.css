@@ -1,0 +1,377 @@
+.velkomst{width: 100%; height: 250px
+    
+    }
+.artikel{width:60%;}
+
+.tennis{width: 60%; height: 390px;}
+
+.baggrund{background-color: lightgray;}
+
+p{text-align: justify 60%;
+    display: inline;}
+
+.italic{font-style: italic}
+
+.fuglebakken{width=100% height: auto}
+
+article{text-align: justify;}
+
+.fuglebakkenartikel
+
+.fodboldbaggrund{background-color: limegreen}
+{    
+border:1px solid black;
+padding:10px;    
+width:200px;
+height:200px;
+text-align:justify;}
+
+.fodboldbaggrund{background-color:green}
+
+.basketballbaggrund{background-color:darkorange}
+
+.tennisbaggrund{background-color: indianred}
+
+.baggrundbasket{background-color:darkorange}
+
+p.venstre{
+    float:left;
+    width:28%;
+    margin-right:2%;
+    background:#eee;
+    color:black;
+    border:1px solid #ccc;
+    padding:10px;
+}
+
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400);
+.snip1490 {
+  font-family: 'Roboto', Arial, sans-serif;
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: 300;
+  background-color: #eee;
+  display: inline-block;
+  padding: 0;
+  letter-spacing: 2px;
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.1) 0%, transparent 100%);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, transparent 100%);
+    float:right;
+}
+
+.snip1490 *,
+.snip1490 *:before {
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.snip1490 li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0;
+  position: relative;
+  float: left;
+}
+
+.snip1490 > li {
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #b3b3b3;
+}
+
+.snip1490 > li:first-of-type {
+  border-left: none;
+}
+
+.snip1490 > li:last-of-type {
+  border-right: none;
+}
+
+.snip1490 a {
+  color: #000000;
+  display: block;
+  padding: 1.1em 2em 1.3em;
+  position: relative;
+  text-decoration: none;
+}
+
+.snip1490 a:hover {
+  color: #ffffff;
+}
+
+.snip1490 > li:before,
+.snip1490 > li:after {
+  position: absolute;
+  content: '';
+}
+
+.snip1490 > li:before {
+  background-color: #962d22;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+  top: 0;
+  opacity: 0;
+}
+
+.snip1490 > li:after {
+  position: absolute;
+  bottom: 0;
+  left: -1px;
+  right: -1px;
+  height: 5px;
+  background-color: #6d2018;
+  box-shadow: 0px -1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.snip1490 ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  margin: 0;
+  padding: 5px 0;
+  white-space: nowrap;
+  font-size: 0.8em;
+  background-color: #8e2a20;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.snip1490 ul li {
+  display: list-item;
+  float: none;
+  position: relative;
+}
+
+.snip1490 ul li a {
+  padding: 0.8em 1.2em;
+  color: #ffffff;
+  text-transform: none;
+  opacity: 0.8;
+}
+
+.snip1490 ul li a:hover {
+  opacity: 1;
+}
+
+.snip1490 li:hover > ul {
+  display: inherit;
+}
+
+.snip1490 li > a:after {
+  content: ' \f3d0';
+  font-family: "Ionicons";
+}
+
+.snip1490 li > a:only-child:after {
+  content: '';
+}
+
+.snip1490 ul ul {
+  background-color: #962d22;
+  top: 0px;
+  left: 100%;
+  list-style: none;
+  font-size: 1em;
+}
+
+.snip1490 ul li > a:after {
+  content: ' \f3d1';
+}
+
+.snip1490 > li:hover > a,
+.snip1490 > li.current > a {
+  color: #fff;
+}
+
+.snip1490 > li:hover:before,
+.snip1490 > li.current:before {
+  bottom: 0;
+  opacity: 1;
+}
+
+
+
+
+ul{ align-content: center
+    }
+
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+}
+
+@media screen and (max-width: 1080px) {
+    menu {
+        width: 200px;
+    }
+}
+
+
+CSS nyhed 
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,600,700);
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+figure.snip1216 {
+  font-family: 'Raleway', Arial, sans-serif;
+  color: #fff;
+  position: relative;
+  float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 220px;
+  max-width: 310px;
+  width: 100%;
+  background-color: #262626;
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+figure.snip1216 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+figure.snip1216 .image {
+  max-height: 220px;
+  overflow: hidden;
+}
+figure.snip1216 img {
+  max-width: 100%;
+  vertical-align: top;
+  position: relative;
+}
+figure.snip1216 figcaption {
+  padding: 25px;
+  position: relative;
+}
+figure.snip1216 .date {
+  background-color: #c0392b;
+  top: 25px;
+  color: #fff;
+  left: 25px;
+  min-height: 48px;
+  min-width: 48px;
+  position: absolute;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+figure.snip1216 .date span {
+  display: block;
+  line-height: 24px;
+}
+figure.snip1216 .date .month {
+  font-size: 14px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+figure.snip1216 h3,
+figure.snip1216 p {
+  margin: 0;
+  padding: 0;
+}
+figure.snip1216 h3 {
+  min-height: 50px;
+  margin-bottom: 10px;
+  margin-left: 60px;
+  display: inline-block;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+figure.snip1216 p {
+  font-size: 0.8em;
+  margin-bottom: 20px;
+  line-height: 1.6em;
+}
+figure.snip1216 footer {
+  padding: 0 25px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #e6e6e6;
+  font-size: 0.8em;
+  line-height: 30px;
+  text-align: right;
+}
+figure.snip1216 footer > div {
+  display: inline-block;
+  margin-left: 10px;
+}
+figure.snip1216 footer i {
+  color: rgba(255, 255, 255, 0.2);
+  margin-right: 5px;
+}
+figure.snip1216 a {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  z-index: 1;
+}
+figure.snip1216:hover img,
+figure.snip1216.hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+
+
+TIL FODBOLD 
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+
+
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+
+    #logo{
+        float:left;
+        width: 20%;
+        height: auto;
+        margin-left: 10px;
+    }
+
+header {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+    border-bottom:solid black thin;
+    
+    
+}
+
+#headmenu {
+    margin: 90px 50px 0 0;
+    display: inline-block;
+    float:right; 
+    
+}
